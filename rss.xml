@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>SecureRUSH Newsletter</title>
+  <link>https://quoterushnewsletter.github.io/SecureRUSH-Feed/</link>
+  <description>Monthly security updates from QuoteRUSH</description>
+  <language>en-us</language>
+  <lastBuildDate>Wed, 18 Sep 2025 14:00:00 +0000</lastBuildDate>
+
+  <item>
+    <title>SecureRUSH - September 2025</title>
+    <link>https://quoterushnewsletter.github.io/SecureRUSH-Feed/SecureRUSH-Sep-2025.pdf</link>
+    <guid isPermaLink="true">https://quoterushnewsletter.github.io/SecureRUSH-Feed/SecureRUSH-Sep-2025.pdf</guid>
+    <description><![CDATA[This issue highlights MFA best practices and new company security initiatives.]]></description>
+    <pubDate>Wed, 18 Sep 2025 14:00:00 +0000</pubDate>
+  </item>
+
+</channel>
+</rss>
