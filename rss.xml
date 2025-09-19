@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SecureRUSH Feed</title>
     <link>https://quoterushnewsletter.github.io/SecureRUSH-Feed/</link>
-    <description>Security-focused newsletters from QuoteRUSH</description>
+    <description>QuoteRUSH SecureRUSH Newsletter Feed</description>
+    <atom:link href="https://quoterushnewsletter.github.io/SecureRUSH-Feed/rss.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
