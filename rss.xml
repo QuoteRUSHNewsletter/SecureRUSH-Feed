@@ -5,6 +5,20 @@
     <link>https://quoterushnewsletter.github.io/SecureRUSH-Feed/</link>
     <description>QuoteRUSH SecureRUSH Newsletter Feed</description>
     <atom:link href="https://quoterushnewsletter.github.io/SecureRUSH-Feed/rss.xml" rel="self" type="application/rss+xml" />
+	<item>
+      <title>SecureRUSH – July 2025</title>
+      <link>https://quoterushnewsletter.github.io/SecureRUSH-Feed/SecureRUSH July - Staying Safe on Public Wi-Fi.pdf</link>
+      <guid isPermaLink="true">https://quoterushnewsletter.github.io/SecureRUSH-Feed/SecureRUSH July - Staying Safe on Public Wi-Fi.pdf</guid>
+      <description><![CDATA[New SecureRUSH issue for July 2025 now available.]]></description>
+      <pubDate>Tue, 22 Jul 2025 17:19:12 GMT</pubDate>
+    </item>
+	<item>
+      <title>SecureRUSH – August 2025</title>
+      <link>https://quoterushnewsletter.github.io/SecureRUSH-Feed/SecureRUSH August - Recognizing CEO Fraud.pdf</link>
+      <guid isPermaLink="true">https://quoterushnewsletter.github.io/SecureRUSH-Feed/SecureRUSH August - Recognizing CEO Fraud.pdf</guid>
+      <description><![CDATA[New SecureRUSH issue for August 2025 now available.]]></description>
+      <pubDate>Tue, 26 Aug 2025 17:19:12 GMT</pubDate>
+    </item>
     <item>
       <title>SecureRUSH – September 2025</title>
       <link>https://quoterushnewsletter.github.io/SecureRUSH-Feed/SecureRUSH September - Recognizing Malware.pdf</link>
