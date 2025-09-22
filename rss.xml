@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SecureRUSH Feed</title>
     <link>https://quoterushnewsletter.github.io/SecureRUSH-Feed/</link>
     <description>QuoteRUSH SecureRUSH Newsletter Feed</description>
     <atom:link href="https://quoterushnewsletter.github.io/SecureRUSH-Feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SecureRUSH – September 2025</title>
+      <link>https://quoterushnewsletter.github.io/SecureRUSH-Feed/SecureRUSH September - Recognizing Malware.pdf</link>
+      <guid isPermaLink="true">https://quoterushnewsletter.github.io/SecureRUSH-Feed/SecureRUSH September - Recognizing Malware.pdf</guid>
+      <description><![CDATA[New SecureRUSH issue for September 2025 now available.]]></description>
+      <pubDate>Fri, 19 Sep 2025 17:19:12 GMT</pubDate>
+    </item>
   </channel>
 </rss>
